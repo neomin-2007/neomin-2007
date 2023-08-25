@@ -1,3 +1,1 @@
-![screenshoot](https://imgur.com/KlUxXVC.png)
-📍 Desenvolvedor C-Sharp
-💻 Desenvolvedor JavaScript
+![screenshoot](https://imgur.com/KlUxXVC.png) @tiostitch
