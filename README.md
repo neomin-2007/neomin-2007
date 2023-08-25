@@ -1,1 +1,1 @@
-![screenshoot](https://imgur.com/fEgoaU3.png) @tiostitch
+![screenshoot](https://imgur.com/lQSHAzQ.png) @tiostitch
