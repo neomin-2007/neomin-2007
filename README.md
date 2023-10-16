@@ -1,1 +1,1 @@
-   ![screenshoot](https://imgur.com/CMjb4Ua.png)
+   ![screenshoot](https://imgur.com/UjRy65f.png)
