@@ -3,7 +3,7 @@
 Eu sou uma pessoa que está sempre em busca de novos conhecimentos
 e superar dificuldades tanto profissionais quanto pessoais.
 
-## ☕ Minhas formações**
+## ☕ Minhas formações
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
