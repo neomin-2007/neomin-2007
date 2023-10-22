@@ -3,7 +3,7 @@
 Eu sou uma pessoa que está sempre em busca de novos conhecimentos
 e superar dificuldades tanto profissionais quanto pessoais.
 
-## ☕ Minhas Linguagens**
+## ☕ Minhas formações**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -11,10 +11,13 @@ e superar dificuldades tanto profissionais quanto pessoais.
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
-### 🧶 Trabalhos atuais
+### 🧶 Trabalhando atualmente
 
-- Encomendas livres.
-- Criação de Jogos 2D/3D
+- Encomendas de tipo livre.
+- Criação de Jogos (2D/3D).
+- Utilização da API do Bukkit.
+- Desenvolvimento de Aplicações.
+- Resolução de problemas em equipe.
 
 ### 🌱 Foco de estudo
 
