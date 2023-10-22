@@ -1,6 +1,7 @@
 ## Seja muito bem-vindo! 👋
 
-Eu sou uma pessoa em busca sempre de novos conhecimentos.
+Eu sou uma pessoa que está sempre em busca de novos conhecimentos,
+pois já dizia os mais sábios, conhecimento é poder.
 
 ## ☕ Minhas Linguagens**
 
