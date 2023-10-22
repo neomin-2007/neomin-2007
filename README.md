@@ -2,7 +2,7 @@
 
 Eu sou uma pessoa em busca sempre de novos conhecimentos.
 
-**Minha experiência**
+**Minhas Linguagens**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -10,24 +10,20 @@ Eu sou uma pessoa em busca sempre de novos conhecimentos.
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
-### 🔭 I’m working on
+### 🔭 Atualmente eu trabalho com
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Encomendas livres.
+- Criação de Jogos 2D/3D
 
-### 🌱 I’m learning
+### 🌱 Estou estudando
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
-### 📫 How to reach me
+### 📫 Como comunicar-se comigo
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
