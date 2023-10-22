@@ -2,7 +2,7 @@
 
 Eu sou uma pessoa em busca sempre de novos conhecimentos.
 
-**Minhas Linguagens**
+## ☕ Minhas Linguagens**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -10,12 +10,12 @@ Eu sou uma pessoa em busca sempre de novos conhecimentos.
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </div>
 
-### 🔭 Atualmente eu trabalho com
+### 🧶 Trabalhos atuais
 
 - Encomendas livres.
 - Criação de Jogos 2D/3D
 
-### 🌱 Estou estudando
+### 🌱 Foco de estudo
 
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
