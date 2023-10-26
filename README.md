@@ -14,7 +14,7 @@ e superar dificuldades tanto profissionais quanto pessoais.
 ### 🧶 Trabalhando atualmente
 
 <ul>
-  <li>Encomendas freelance;</li>
+  <li><a> style="color: yellow; Encomendas freelance; </a></li>
   <li>Criação de Jogos (2D/3D);</li>
   <li>Utilização da API do Bukkit;</li>
   <li>Desenvolvimento de Aplicações;</li>
@@ -25,7 +25,7 @@ e superar dificuldades tanto profissionais quanto pessoais.
 ### 🌱 Foco de estudo
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="color: yellow;"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" "/>
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="color: red;"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="color: purple;"/>
 </div>
