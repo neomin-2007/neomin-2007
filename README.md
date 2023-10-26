@@ -1,7 +1,7 @@
 ## Seja muito bem-vindo! 👋
 
 Sempre buscando novos conhecimentos para<br/>
-tornar-se um desenvolvedor melhor. 🍂
+tornar-se um desenvolvedor cada dia melhor 🍂
 
 ## ☕ Minhas formações
 
