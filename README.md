@@ -13,11 +13,14 @@ e superar dificuldades tanto profissionais quanto pessoais.
 
 ### 🧶 Trabalhando atualmente
 
-- Encomendas de tipo livre.
-- Criação de Jogos (2D/3D).
-- Utilização da API do Bukkit.
-- Desenvolvimento de Aplicações.
-- Resolução de problemas em equipe.
+<ul>
+  <li>Encomendas de tipo livre.</li>
+  <li>Criação de Jogos (2D/3D).</li>
+  <li>Utilização da API do Bukkit.</li>
+  <li>Desenvolvimento de Aplicações.</li>
+  <li>Resolução de problemas em equipe.</li>
+</ul>
+
 
 ### 🌱 Foco de estudo
 
