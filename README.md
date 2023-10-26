@@ -14,7 +14,7 @@ e superar dificuldades tanto profissionais quanto pessoais.
 ### 🧶 Trabalhando atualmente
 
 <ul>
-  <li><a style="color: yellow;" Encomendas freelance; </a></li>
+  <li><a style="color: yellow;"> Encomendas freelance; </a></li>
   <li>Criação de Jogos (2D/3D);</li>
   <li>Utilização da API do Bukkit;</li>
   <li>Desenvolvimento de Aplicações;</li>
