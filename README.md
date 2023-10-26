@@ -1,7 +1,7 @@
 ## Seja muito bem-vindo! 👋
 
-Eu sou uma pessoa que está sempre em busca de novos conhecimentos
-e superar dificuldades tanto profissionais quanto pessoais.
+Sempre buscando novos conhecimentos para
+tornar-se um desenvolvedor melhor. 🍂
 
 ## ☕ Minhas formações
 
