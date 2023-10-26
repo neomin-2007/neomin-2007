@@ -30,7 +30,6 @@ e superar dificuldades tanto profissionais quanto pessoais.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="color: purple;"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 ### 📫 Como comunicar-se comigo
 
 <div display="flex">
@@ -41,3 +40,5 @@ e superar dificuldades tanto profissionais quanto pessoais.
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
