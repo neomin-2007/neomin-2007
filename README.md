@@ -16,7 +16,6 @@ tornar-se um desenvolvedor cada dia melhor 🍂
 <ul>
   <li>Encomendas freelance;</li>
   <li>Criação de Jogos (2D/3D);</li>
-  <li>Utilização da API do Bukkit;</li>
   <li>Desenvolvimento de Aplicações;</li>
   <li>Resolução de problemas.</li>
 </ul>
