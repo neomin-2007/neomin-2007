@@ -3,6 +3,13 @@
 Sempre buscando novos conhecimentos para<br/>
 tornar-se um desenvolvedor cada dia melhor 🍂
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio | Guilherme Alexandre</title>
+    <link rel="stylesheet" href="skclass.css">
+</head>
+
 <h3> ☕ Minhas formações </h3>
 
 <div display="flex">
