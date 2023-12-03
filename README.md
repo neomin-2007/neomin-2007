@@ -3,14 +3,7 @@
 Sempre buscando novos conhecimentos para<br/>
 tornar-se um desenvolvedor cada dia melhor 🍂
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio | Guilherme Alexandre</title>
-    <link rel="stylesheet" href="skclass.css">
-</head>
-
-<h3> ☕ Minhas formações </h3>
+### ☕ Minhas formações
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
