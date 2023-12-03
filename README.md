@@ -3,7 +3,7 @@
 Sempre buscando novos conhecimentos para<br/>
 tornar-se um desenvolvedor cada dia melhor 🍂
 
-## ☕ Minhas formações
+<h3> ☕ Minhas formações </h3>
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
