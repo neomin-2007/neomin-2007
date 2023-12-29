@@ -15,8 +15,8 @@ tornar-se um desenvolvedor cada dia melhor 🍂
 ### 🧶 Trabalhando atualmente
 
 <ul>
-  <li>Encomendas freelance;</li>
-  <li>Resolução de problemas.</li>
+  <li>Solarion Sky Network;</li>
+  <li>Criação de APIs utilitárias.</li>
   <li>Desenvolvimento de Jogos (2D/3D);</li>
   <li>Desenvolvimento de Aplicações;</li>
 </ul>
