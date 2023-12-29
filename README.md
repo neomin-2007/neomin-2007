@@ -9,6 +9,7 @@ tornar-se um desenvolvedor cada dia melhor 🍂
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/c++-23-%23239120.svg?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
 </div>
 
 ### 🧶 Trabalhando atualmente
