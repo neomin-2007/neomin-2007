@@ -18,9 +18,9 @@
 
 <ul>
   <li>Solarion Sky Network;</li>
+  <li>Estudo das leis da física;</li>
   <li>Criação de APIs utilitárias;</li>
-  <li>Desenvolvimento de Jogos (2D/3D);</li>
-  <li>Desenvolvimento de Aplicações.</li>
+  <li>Desenvolvimento de Jogos (2D/3D).</li>
 </ul>
 
 
