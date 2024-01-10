@@ -6,6 +6,7 @@
 </p>
 
 ### ☕ Minhas especialidades
+[![My Skills](https://skillicons.dev/icons?i=java,lua,c#)](https://skillicons.dev)
 
 <div display="flex">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
