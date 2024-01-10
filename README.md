@@ -29,7 +29,7 @@
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Meios de Comunicação
+### 📫 Contato
 
 <div display="flex">
   <a href="https://discord.gg/cAHKNykAuT">
@@ -39,6 +39,3 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
