@@ -1,6 +1,12 @@
 ## Seja muito bem-vindo! 👋
 
-[![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## Sobre mim
+<ul>
+  <li>Adoro explorar novas técnologias;</li>
+  <li>Aprendo rapidamente coisas novas.</li>
+  <li>Estou sempre disponível para aprender;</li>
+  <li>Poderiamos tomar um café juntos!</li>
+</ul>
 
 ### ☕ Minhas especialidades
 
@@ -15,15 +21,16 @@
 
 <ul>
   <li>Solarion Sky Network;</li>
-  <li>Criação de APIs utilitárias.</li>
+  <li>Criação de APIs utilitárias;</li>
   <li>Desenvolvimento de Jogos (2D/3D);</li>
-  <li>Desenvolvimento de Aplicações;</li>
+  <li>Desenvolvimento de Aplicações.</li>
 </ul>
 
 
 ### 🌱 Progressões
 
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Meios de Comunicação
 
