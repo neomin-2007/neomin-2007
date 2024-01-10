@@ -24,7 +24,7 @@
 </ul>
 
 
-### 🌱 Progressões
+### 🌱 Progressões gráficas
 
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
