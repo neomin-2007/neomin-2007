@@ -23,14 +23,3 @@
 
 [![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 Contato
-
-<div display="flex">
-  <a href="https://discord.gg/cAHKNykAuT">
-    <img src="(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev" alt="Gmail"/>
-  </a>
-  <a href="https://www.reddit.com/user/TioStitch">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-</div>
