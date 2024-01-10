@@ -1,5 +1,7 @@
 ## Seja muito bem-vindo! 👋
 
+[![TioStitch](https://github-readme-stats.vercel.app/api?username=iuricode&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ☕ Minhas especialidades
 
 <div display="flex">
