@@ -28,7 +28,7 @@
 
 <div display="flex">
   <a href="https://discord.gg/cAHKNykAuT">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev" alt="Gmail"/>
   </a>
   <a href="https://www.reddit.com/user/TioStitch">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
