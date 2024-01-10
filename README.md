@@ -1,6 +1,7 @@
-## Seja muito bem-vindo! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+##Olá, seja muito bem-vindo!
 
-## Sobre mim
+Sobre mim
 <ul>
   <li>Adoro explorar novas técnologias;</li>
   <li>Aprendo rapidamente coisas novas.</li>
