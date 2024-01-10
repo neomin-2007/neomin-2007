@@ -7,7 +7,7 @@
 
 ### ☕ Minhas especialidades
 [![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp,cpp)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
 ### 🧶 Trabalhando atualmente
 
