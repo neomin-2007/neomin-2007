@@ -5,24 +5,6 @@
   sou um desenvolvedor Back-End em estudos, estou estudando novas técnologias.
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-Sobre mim
-<ul>
-  <li>Adoro explorar novas técnologias;</li>
-  <li>Aprendo rapidamente coisas novas.</li>
-  <li>Estou sempre disponível para aprender;</li>
-  <li>Poderiamos tomar um café juntos!</li>
-</ul>
-
 ### ☕ Minhas especialidades
 
 <div display="flex">
