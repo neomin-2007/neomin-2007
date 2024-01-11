@@ -9,6 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 [![My Skills1](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
+### ☕ Estudando atualmente
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,rust,c)](https://skillicons.dev)
+
 ### 🧶 Trabalhando atualmente
 
 <ul>
