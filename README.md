@@ -1,18 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+### 🌿 Sobre mim
 <p align="left"> 
   Prazer, meu nome é Guilherme Alexandre, conhecido profissionalmente como TioStitch.
   Sou um desenvolvedor Back-End, estou sempre em busca de estudar novas tecnologias.
 </p>
 
-### ☕ Minhas especialidades
+### 🪷 Minhas especialidades
 [![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 [![My Skills1](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
-### 🌿 Estudando atualmente
+### 🪷 Estudando atualmente
 [![My Skills](https://skillicons.dev/icons?i=python,rust,kotlin,c)](https://skillicons.dev)
 
-### 🧶 Trabalhando atualmente
+### ☕ Trabalhando atualmente
 
 <ul>
   <li>Solarion Sky Network;</li>
