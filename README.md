@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Prazer, meu nome é Guilherme Alexandre, conhecido profissionalmente como TioStitch.
-  Sou um desenvolvedor Back-End em estudos, estou sempre a estudar novas técnologias.
+  Sou um desenvolvedor Back-End, estou sempre a estudar novas técnologias.
 </p>
 
 ### ☕ Minhas especialidades
