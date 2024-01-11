@@ -7,12 +7,12 @@
 </p>
 
 ### 🪷 Minhas especialidades
-[![My Skills](https://skillicons.dev/icons?i=java,lua,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua,kotlin,mysql)](https://skillicons.dev)
 
 [![My Skills1](https://skillicons.dev/icons?i=cs,cpp,html,css)](https://skillicons.dev)
 
 ### 🪷 Estudando atualmente
-[![My Skills3](https://skillicons.dev/icons?i=python,rust,kotlin,c)](https://skillicons.dev)
+[![My Skills3](https://skillicons.dev/icons?i=python,rust,c)](https://skillicons.dev)
 
 ### ☕ Trabalhando atualmente
 
