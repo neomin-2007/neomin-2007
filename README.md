@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 [![My Skills1](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
-[![My Skills2](https://skillicons.dev/icons?i=html,css,sql)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
 
 ### 🪷 Estudando atualmente
 [![My Skills3](https://skillicons.dev/icons?i=python,rust,kotlin,c)](https://skillicons.dev)
