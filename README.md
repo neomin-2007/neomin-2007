@@ -17,7 +17,7 @@
 ### ☕ Trabalhando atualmente
 
 <ul>
-  <li>Solarion Sky Network;</li>
+  <li>SolarionSky Studio;</li>
   <li>Estudo das leis da física;</li>
   <li>Criação de APIs utilitárias;</li>
   <li>Desenvolvimento de Jogos (2D/3D).</li>
