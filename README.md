@@ -11,9 +11,6 @@
 
 [![My Skills1](https://skillicons.dev/icons?i=html,css,cpp,cs)](https://skillicons.dev)
 
-### 🪷 Estudando atualmente
-[![My Skills3](https://skillicons.dev/icons?i=python,rust,c)](https://skillicons.dev)
-
 ### ☕ Trabalhando atualmente
 
 <ul>
