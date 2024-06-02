@@ -6,10 +6,10 @@
   Sou um desenvolvedor Back-End, estou sempre em busca de estudar novas tecnologias.
 </p>
 
-### 🪷 Minhas especialidades
-[![My Skills](https://skillicons.dev/icons?i=java,lua,kotlin,mysql)](https://skillicons.dev)
+### 🪷 Minhas langs favoritas
+[![My Skills](https://skillicons.dev/icons?i=java,lua,rust,c)](https://skillicons.dev)
 
-[![My Skills1](https://skillicons.dev/icons?i=html,css,cpp,cs)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=html,css,mysql,cs)](https://skillicons.dev)
 
 ### ☕ Trabalhando atualmente
 
