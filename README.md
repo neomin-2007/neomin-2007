@@ -7,9 +7,9 @@
 </p>
 
 ### 🪷 Minhas langs favoritas
-[![My Skills](https://skillicons.dev/icons?i=java,lua,rust,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua,rust)](https://skillicons.dev)
 
-[![My Skills1](https://skillicons.dev/icons?i=html,c,cpp,cs)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
 ### ☕ Trabalhando atualmente
 
