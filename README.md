@@ -6,19 +6,10 @@
   Sou um desenvolvedor Back-End, estou sempre em busca de estudar novas tecnologias.
 </p>
 
-### 🪷 Minhas langs favoritas
+### ☕ Minhas langs favoritas
 [![My Skills](https://skillicons.dev/icons?i=java,lua,rust)](https://skillicons.dev)
 
 [![My Skills1](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
-
-### ☕ Trabalhando atualmente
-
-<ul>
-  <li>SolarionSky Studio;</li>
-  <li>Estudo das leis da física;</li>
-  <li>Criação de APIs utilitárias;</li>
-  <li>Desenvolvimento de Jogos (2D/3D).</li>
-</ul>
 
 
 ### 🌱 Progressões gráficas
