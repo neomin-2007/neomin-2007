@@ -2,14 +2,13 @@
 
 ### 🌿 Sobre mim
 <p align="left"> 
-  Prazer, meu nome é Guilherme Alexandre, conhecido profissionalmente como TioStitch.
-  Sou um engenheiro de software, estou sempre em busca de novos conhecimentos e conceitos.
+  Hey, my name is TioStitch, I'm 17 years old and a Software Engineer. My love low-level languages...
 </p>
 
-### ☕ Minhas langs favoritas
-[![My Skills](https://skillicons.dev/icons?i=java,lua,rust)](https://skillicons.dev)
+### ☕ My best skills
+[![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
 
-[![My Skills1](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=sql,linux)](https://skillicons.dev)
 
 
 ### 🌱 Progressões gráficas
