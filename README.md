@@ -11,7 +11,7 @@
 [![My Skills1](https://skillicons.dev/icons?i=mysql,sqlite,linux,redis)](https://skillicons.dev)
 
 
-### 🌱 Progressões gráficas
+### 🌱 My progress
 
 [![TioStitch](https://github-readme-stats.vercel.app/api?username=TioStitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
