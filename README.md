@@ -12,5 +12,4 @@
 
 
 ### 🌱 My progress
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-[![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
