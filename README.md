@@ -8,7 +8,7 @@
 ### ☕ My best skills
 ![Java](https://img.shields.io/badge/-Linux-535353?style=for-the-badge&logo=linux&labelColor=FDED64)
 
-![C](https://img.shields.io/badge/-Linguagem+C-535353?style=for-the-badge&logo=c&labelColor=FDED64)
+![C](https://img.shields.io/badge/-Linguagem_C-535353?style=for-the-badge&logo=c&labelColor=FDED64)
 
 [![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
 [![My Skills1](https://skillicons.dev/icons?i=mysql,vim,linux,redis)](https://skillicons.dev)
