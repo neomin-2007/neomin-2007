@@ -8,7 +8,7 @@
 ### ☕ My best skills
 [![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
 
-[![My Skills1](https://skillicons.dev/icons?i=sqlite,linux,redis)](https://skillicons.dev)
+[![My Skills1](https://skillicons.dev/icons?i=mysql,sqlite,linux,redis)](https://skillicons.dev)
 
 
 ### 🌱 Progressões gráficas
