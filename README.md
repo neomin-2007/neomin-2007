@@ -6,9 +6,10 @@
 </p>
 
 ### ☕ My best skills
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=for-the-badge&logo=linux&labelColor=0D1117)
-[![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/-Java-61DAFB?style=for-the-badge&logo=linux&labelColor=E25B8B)
+![C](https://img.shields.io/badge/-C-61DAFB?style=for-the-badge&logo=c&labelColor=E25B8B)
 
+[![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
 [![My Skills1](https://skillicons.dev/icons?i=mysql,vim,linux,redis)](https://skillicons.dev)
 
 
