@@ -6,7 +6,7 @@
 </p>
 
 ### ☕ My best skills
-![Java.js](https://img.shields.io/badge/-Java.js-61DAFB?style=for-the-badge&logo=java&labelColor=0D1117)
+![Java](https://img.shields.io/badge/-react.js-61DAFB?style=for-the-badge&logo=java&labelColor=0D1117)
 [![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
 
 [![My Skills1](https://skillicons.dev/icons?i=mysql,vim,linux,redis)](https://skillicons.dev)
