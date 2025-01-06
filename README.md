@@ -5,11 +5,5 @@
   Hey, my name is Neomin, I'm 17 years old and a Software Engineer.
 </p>
 
-### ☕ My best skills
-[![My Skills](https://skillicons.dev/icons?i=java,lua,c,cs)](https://skillicons.dev)
-
-[![My Skills1](https://skillicons.dev/icons?i=mysql,vim,linux,redis)](https://skillicons.dev)
-
-
 ### 🌱 My progress
 [![TioStitch](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
