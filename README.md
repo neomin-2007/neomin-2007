@@ -2,7 +2,7 @@
 
 ### 🌿 Sobre mim
 <p align="left"> 
-  Hey, my name is TioStitch, I'm 17 years old and a Software Engineer. My love low-level languages...
+  Hey, my name is Neomin, I'm 17 years old and a Software Engineer.
 </p>
 
 ### ☕ My best skills
