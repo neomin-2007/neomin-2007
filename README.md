@@ -6,4 +6,4 @@
 </p>
 
 ### 🌱 My progress
-[![neomin-2007](https://github-readme-stats.vercel.app/api/top-langs/?username=TioStitch&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![neomin-2007](https://github-readme-stats.vercel.app/api/top-langs/?username=neomin-2007&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
