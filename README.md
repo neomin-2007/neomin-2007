@@ -1,7 +1,7 @@
 
 ### 🌿 Sobre mim
 <p align="left"> 
-  Hey, my name is Neomin, I'm 17 years old and a Software Engineer.
+  Aloha, my name is Neomin. I'm a software engineer and I love coding low level programs.
 </p>
 
 ### 🌱 My progress
