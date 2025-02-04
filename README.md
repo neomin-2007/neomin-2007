@@ -1,5 +1,5 @@
 
-### 🌿 Sobre mim
+### 🌿 About me
 <p align="left"> 
   Aloha, my name is Neomin. I'm a software engineer and I love coding low level programs.
 </p>
