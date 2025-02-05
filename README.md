@@ -2,6 +2,7 @@
 ### 🌿 About me
 <p align="left"> 
   Aloha, my name is Neomin. I'm a software engineer and I love coding low level programs.
+  I love coding Arduino, ESP32, and PSP for gaming.
 </p>
 
 ### 🌱 My progress
