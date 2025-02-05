@@ -1,8 +1,9 @@
 
 ### 🌿 About me
 <p align="left"> 
-  Aloha, my name is Neomin. I'm a software engineer and I love coding low level programs.
+  Aloha, my name is Neomin. I'm a low-level developer.
   <br>I love coding Arduino, ESP32, and PSP for gaming.
+  <br>My favorite languages are C and Rust.
 </p>
 
 ### 🌱 My progress
