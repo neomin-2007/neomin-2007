@@ -2,7 +2,7 @@
 ### 🌿 About me
 <p align="left"> 
   Aloha, my name is Neomin. I'm a low-level developer.
-  <br>I love coding Arduino, ESP32, and PSP for gaming.
+  <br>I love coding Arduino, ESP32, and Gameboy for gaming.
   <br>My favorite languages are C and Rust.
 </p>
 
