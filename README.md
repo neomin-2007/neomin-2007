@@ -1,8 +1,8 @@
 
 ### 🌿 About me
 <p align="left"> 
-  Haio, my name is Neomin. I'm a low-level developer..
-  <br>I love coding games, engines, renders and others...
+  Haio, my name is Neomin. I'm a low-level developer
+  <br>I've coded games, engines, renders and more...
   <br>Discord: neomin.2007
 </p>
 
